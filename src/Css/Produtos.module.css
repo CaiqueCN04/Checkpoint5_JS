@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+td{
+    color: #fff;
+}
+
+
+a{
+    color: #fff;
+}
+
+button{
+    border: 1px solid;
+    height: 50px;
+    width: 100px;   
+}
+
+table{
+    padding: 10px;
+   
+}
+
+th{
+    padding: 10px;
+    border: 1px solid red;
+}
+td{
+    padding: 10px;
+    border: 1px solid red;
+}
+
+.editar{
+    background-color: yellow;
+}
